@@ -1,0 +1,24 @@
+nav {
+    background: green;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}

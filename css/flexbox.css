@@ -1,0 +1,9 @@
+.boxes {
+    display: flex;
+    gap: 20px;
+}
+
+.boxes div {
+    background: lightgreen;
+    padding: 30px;
+}
